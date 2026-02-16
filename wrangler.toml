@@ -1,0 +1,14 @@
+name = "lobsterss"
+main = "index.ts"
+compatibility_date = "2024-01-01"
+
+[vars]
+HOST = "https://lobsterss.zwhuang.dev"
+DOCS = "https://github.com/zack466/lobsteRSS"
+
+[[kv_namespaces]]
+binding = "lobsteRSS"
+id = "60faa9b121c946829668b8b599c8fa6b"
+
+[triggers]
+crons = ["*/10 * * * *"]
