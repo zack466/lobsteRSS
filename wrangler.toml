@@ -3,7 +3,7 @@ main = "index.ts"
 compatibility_date = "2024-01-01"
 
 [vars]
-HOST = "https://lobsterss.zwhuang.dev"
+HOST = "https://lobsterss.zack466.workers.dev"
 DOCS = "https://github.com/zack466/lobsteRSS"
 
 [[kv_namespaces]]
